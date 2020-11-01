@@ -1,0 +1,10 @@
+[09-May-2018 04:16:26 Europe/London] PHP Fatal error:  Call to a member function close() on null in /home/fffcbdad/public_html/website/php/login/login.php on line 91
+[09-May-2018 04:17:38 Europe/London] PHP Fatal error:  Call to a member function close() on null in /home/fffcbdad/public_html/website/php/login/login.php on line 91
+[09-May-2018 04:27:35 Europe/London] PHP Fatal error:  Call to a member function close() on null in /home/fffcbdad/public_html/website/php/login/login.php on line 91
+[09-May-2018 04:30:12 Europe/London] PHP Fatal error:  Call to a member function close() on null in /home/fffcbdad/public_html/website/php/login/login.php on line 91
+[09-May-2018 04:30:21 Europe/London] PHP Fatal error:  Call to a member function close() on null in /home/fffcbdad/public_html/website/php/login/login.php on line 91
+[09-May-2018 04:30:37 Europe/London] PHP Fatal error:  Call to a member function close() on null in /home/fffcbdad/public_html/website/php/login/login.php on line 91
+[09-May-2018 04:35:13 Europe/London] PHP Parse error:  syntax error, unexpected '"' in /home/fffcbdad/public_html/website/php/login/login.php on line 84
+[09-May-2018 04:35:17 Europe/London] PHP Parse error:  syntax error, unexpected '"' in /home/fffcbdad/public_html/website/php/login/login.php on line 84
+[09-May-2018 04:35:42 Europe/London] PHP Parse error:  syntax error, unexpected '"' in /home/fffcbdad/public_html/website/php/login/login.php on line 84
+[09-May-2018 04:49:05 Europe/London] PHP Fatal error:  Call to a member function close() on null in /home/fffcbdad/public_html/website/php/login/login.php on line 91

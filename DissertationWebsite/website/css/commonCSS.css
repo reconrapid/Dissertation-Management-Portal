@@ -1,0 +1,43 @@
+/* ID's (# selector) are unique & should only be used for 1 element within a page,
+Classes (. selector) are not unique & used for multiple elements  */
+
+
+html, body {
+  height: 100%;
+}
+
+/* footer */
+
+footer {
+    background-color: #333333;
+    color: white;
+    text-align: center;
+
+}
+
+/* header */
+#header {
+  background-color: #333333;
+  color: white;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-bottom: 15px;
+
+}
+
+#header .create{
+  margin-top: 5px;
+  padding-top: 10px;
+
+}
+
+/* breadcrumb */
+
+.breadcrumb {
+  background: #CCCCC;
+  color: grey;
+
+}
+.breadcrumb a{
+  color: grey;
+}
